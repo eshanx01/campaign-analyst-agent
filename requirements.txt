@@ -1,0 +1,12 @@
+langchain==0.3.27
+langchain-core==0.3.86
+langchain-community==0.3.27
+langchain-text-splitters==0.3.11
+langchain-openai==0.3.28
+langchain-chroma==0.2.6
+langgraph==0.3.34
+chromadb==1.5.9
+python-dotenv==1.2.3
+mlflow==3.16.1
+pandas==3.0.6
+streamlit==1.64.0
