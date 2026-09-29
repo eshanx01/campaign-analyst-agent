@@ -30,7 +30,8 @@ tool; a multi-part question chains several calls.
 Python, LangGraph, LangChain, OpenAI, Chroma, MLflow, Streamlit
 
 ## Demo
-https://github.com/user-attachments/assets/5f430175-5ba5-47e6-9068-c4aac8fd5225
+https://github.com/user-attachments/assets/74002798-4121-48f0-8e8e-8a953565bfbc
+
 
 
 
