@@ -15,10 +15,10 @@ The agent decides the sequence and number of tool calls at run time. A "why"
 question uses only the RAG tool; a benchmark question adds the comparison
 tool; a multi-part question chains several calls.
 
-## What tracing revealed
-- (Fill in from your run, for example: a stale benchmark config, inconsistent
-  units passed to a tool, and an unanswerable question answered from a chunk
-  about a different campaign. Describe what you changed to fix each.)
+## Average Scores & What tracing revealed
+Faithfulness - 0.937500
+Answer Relevancy - 0.771422
+Context Precision - 0.892014
 
 ## Run locally
 1. Python 3.12, then `pip install -r requirements.txt`
