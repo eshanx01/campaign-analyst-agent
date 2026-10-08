@@ -32,6 +32,10 @@ Python, LangGraph, LangChain, OpenAI, Chroma, MLflow, Streamlit
 ## Demo
 https://github.com/user-attachments/assets/74002798-4121-48f0-8e8e-8a953565bfbc
 
+https://github.com/user-attachments/assets/b03a0960-0b8a-481f-a7dd-3407780d1573
+
+
+
 
 
 
